@@ -1,0 +1,6 @@
+{
+  "name": "Auditor ETDH - Verificación Guía 29",
+  "description": "Aplicación institucional de auditoría académica para evaluar propuestas curriculares de programas de Educación para el Trabajo y el Desarrollo Humano frente al Capítulo 2 de la Guía 29 del MEN de Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
